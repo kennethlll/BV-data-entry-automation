@@ -1,5 +1,5 @@
 # BV system automatic entry software
-#### Video Demo: https://youtu.be/nzOI12yFIts
+
 #### Description: This software is developed for the data entry process.
 
 ## 1. Background of the assembly drwaing
@@ -7,16 +7,17 @@ Assemblies are the combination of parts and sub-assemblies.
 
 Here is one example assembly drawing.
 
-<img src="https://user-images.githubusercontent.com/92499776/203812496-49a03e48-df6e-4d8d-ae59-13444e3286c7.png" width="500">
+<img src="https://user-images.githubusercontent.com/92499776/205671449-b307cce1-2037-4600-8480-959625ffae82.png" width="500">
 
 The Top assembly is made by many sub-assemblies and one of the subassemblies (item 4 X1610-C9081-BD) is shown below.
 In the subassembly (X1610-C9081-BD), there are also two assemblies (X0510-C9081-QC and X461A-C9081-PZ)
 
-<img src="https://user-images.githubusercontent.com/92499776/203812563-1cd5949e-6c86-4335-8a68-a6a5a407b916.png" width="500">
+
+<img src="https://user-images.githubusercontent.com/92499776/205671728-9896d49c-3f35-4144-a261-4e545355e4cb.png" width="500">
 
 The below part is X0510-C9081-QC which is sub-part of X1610-C9081-BD and shown below.
 
-<img src="https://user-images.githubusercontent.com/92499776/203812696-5cbba419-082d-4570-b501-bc8bce800aab.png" width="500">
+<img src="https://user-images.githubusercontent.com/92499776/205673266-3290690c-cf0c-476a-9684-545c55f16b72.png" width="500">
 
 
 The naming system of the part number is shown in the below table.
@@ -58,7 +59,7 @@ the program logic flowchart is listed below.
 
 Here is the running example for a small size assembly. 
 
-<img src="https://user-images.githubusercontent.com/92499776/203812496-49a03e48-df6e-4d8d-ae59-13444e3286c7.png" width="500">
+<img src="https://user-images.githubusercontent.com/92499776/205671449-b307cce1-2037-4600-8480-959625ffae82.png" width="500">
 
 All the pdf design information stored in data.csv and sub.csv
 
